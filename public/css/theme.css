@@ -1,0 +1,46 @@
+/*
+@font-face{
+ font-family:'goshic';
+ src:url('font/mplusgoshic.ttf') format('truetype')
+}
+*/
+
+h3{
+	color:#808080
+}
+.name,.plan{
+	color:#c54258
+}
+ul.menu{
+	color:white
+}
+
+a li_a_menu:link{
+ color:white
+}
+a li_a_menu:visited{
+ color:white
+}
+
+a:hover{
+/*   color:white; */
+ padding-bottom:3px;
+ border-bottom:2px solid white;
+}
+
+.menu-mobile a{
+	border-bottom:0
+}
+ul.menu-mobile li{
+
+/* background: red;
+*/
+background:#808080 
+}
+div#example,div#price{
+ background:#333;
+ padding-bottom:20px
+}
+tr{
+ border-bottom:solid 1px #808080
+}
