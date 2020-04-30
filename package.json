@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.18",
     "core-js": "^2.6.5",
-    "jquery": "^1.10.2",
+    "jquery": "^3.5.0",
     "marked": "^0.6.2",
     "vue": "^2.6.10",
     "vue-nl2br": "^0.1.1",
